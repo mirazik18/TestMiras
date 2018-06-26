@@ -1,0 +1,24 @@
+create Function MirasFunctionAVG
+(
+@c int, @b int, @a int
+) 
+returns int 
+as
+begin
+declare @result int
+select @result = avg(@a + @b + @c)
+return @result
+end
+
+
+create Function [CORP\ְבהטרוגּ].[MirasFunctionAge2]
+(
+@birthday date
+) 
+returns int 
+as
+begin
+declare @age int
+select @age = datediff(YEAR, @birthday, getdate())
+return @age
+end
