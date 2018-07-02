@@ -1,0 +1,27 @@
+1.
+create procedure MirasMinus
+as
+update books
+set Price = Price*0.9
+where Date<'1998-01-01'
+
+
+
+2.
+create procedure MirasWrite
+as
+insert into press
+values ('Вася'),('Пушкин'),('Сережа'),('Роман'),('Петр')
+
+3.
+create procedure MirasFactorial
+as
+declare @i int, @f int, @num int
+set @a = 1
+set @b = 1
+set @num = 5
+while @num>=@a
+begin
+set @b = @num*@a
+set @a = @a + 1
+end
