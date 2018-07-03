@@ -1,0 +1,73 @@
+Alter table Person
+Add constraint Birdthday check (Birthday < date_work)
+
+Alter table Hospital
+Add constraint date_ill check (date_ill <= getdate() )
+
+Alter table Person
+Add constraint position check (position >= 0 and position <= 1 )
+
+Alter table Person
+Add constraint study check (study >= 0 and study <= 3)
+
+Alter table Hospital
+Add constraint ill_end check (ill_end > date_ill and date_ill >= date_work and ill_end <= getdate())
+
+Alter table Person
+Add constraint salary check (salary > min_salary)
+
+Alter table work
+Add harmfulness int 
+
+Alter table work
+Add constraint harmfulness check (harmfulness > 0 and harmfulness <= 3)
+
+Alter table Person
+add constraint min_salary check (min_salary = 30000)
+
+create nonclustered index Recovering 
+on Hospital (date_ill, ill_end)
+
+
+create clustered index NameWork
+on work (name)
+
+Create View MyView as 
+select p.name, r.name, w.name 
+from Work w, Rang r, Person p
+where w.work_id = p.work_id
+and r.rang_id = p.rang_id 
+
+Create View MuView2 as 
+select p.Birthday, p.name, p.salary, p.position, p.children, p.study 
+from Person  p, Hospital h
+where h.person_id = p.id
+and h.date_ill = '2018-01-24'
+and h.ill_end = '2018-02-13'
+
+Create View MuView3 as 
+select p.Birthday, p.name, p.salary, p.position, p.children, p.study 
+from Person  p, Hospital h
+where h.person_id = p.id
+and ill_end like '%-03-%' and ill_end like '%-06-%' and ill_end like '%-09-%' and ill_end like '%-12-%'
+
+Create Procedure proc2 (
+@person_name varchar(50), @place_name varchar(50) 
+) as
+select @person_name = p.name, @place_name = w.name
+from Person p, Work w
+if (@person_name = p.name and @place_name = w.name) 
+begin 
+raiserror('Такого нет',0,1) 
+Rollback transaction
+end 
+else 
+Begin
+Transaction
+p.work_id = w.work_id from Person p, Work w
+end 
+
+Create Procedure proc3  as
+select p.salary - (p.salary / 100 * 20) + (p.salary / 100 * 10)
+from Person p
+
