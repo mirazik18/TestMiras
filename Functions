@@ -1,0 +1,50 @@
+create function Without_Category
+()
+returns int
+as
+begin
+declare @count int
+select @count = count(*)
+from books
+where id_category = NULL
+return @count
+end
+
+
+create function Press_Theme
+()
+returns table
+as
+return(
+select p.name, count(b.Code)
+from books b, press p
+where b.Id_press = p.id
+group by p.name
+)
+
+
+
+
+
+create function MinimalOfThree
+(@num1 int, @num2 int, @num3 int)
+returns int
+as
+begin
+declare @numbers table (f int, f2 int, f3 int)
+declare @minvalue int
+insert into @numbers (numbers)
+values (@num1, @num2, @num3)
+select @minvalue = min(n.numbers) from @numbers n
+return @minvalue
+end
+
+create function Digital
+(@num1 int)
+returns int
+as
+begin
+declare @scnd int, @frst int, @res int
+select @scnd = @num%10, @frst = @num%100, @res = max(@scnd, @frst)
+return @res
+end
