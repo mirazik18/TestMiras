@@ -1,0 +1,79 @@
+Create Trigger MirasTake4
+on Books 
+for delete
+as 
+Update Books 
+set counter = counter - 1 
+
+
+Create Trigger MirasAdd
+on Books 
+for update
+as 
+declare @id uniqueidentifier
+Update Books 
+set counter = counter + 1
+where @id = Books.id 
+
+
+--3.	Чтобы нельзя было выдать книгу, которой уже нет в библиотеке (по кол-ву). 
+Create Trigger MirasAdd2
+on Books 
+for update
+as 
+Declare @counter int
+select @counter = counter from Books 
+if (@counter = 0)
+Begin 
+raiserror('Такой книги нет',0,1) 
+Rollback transaction
+end
+else 
+Begin
+Print('Берите книгу')
+end 
+
+--4.	
+Create Trigger MirasAdd3
+on Students
+for update
+as 
+Declare @taken_books int
+select @taken_books = taken_books from Students 
+if (@taken_books > 3)
+Begin 
+raiserror('Много берешь',0,1) 
+Rollback transaction
+end
+else 
+Begin
+Print('Берите книгу')
+end 
+
+
+--	5.	Чтобы при удалении книги, данные о ней копировались в таблицу Удаленные. 
+Create Trigger MirasAdd4
+on Books 
+after delete 
+as 
+Declare @counter int, @name nvarchar (50), @id uniqueidentifier
+select @counter = counter, @id = id, @name = name from deleted 
+insert deletedBooks values (@id, @name, @counter)
+
+
+--	6.	Если книга добавляется в базу, она должна быть удалена из таблицы Удаленные.
+Create Trigger MirasAdd5
+on Books
+after insert
+as 
+Declare @counter int, @name nvarchar (50), @id uniqueidentifier
+select @counter = counter, @id = id, @name = name from inserted 
+insert Books values (@id, @name, @counter)
+delete from deletedBooks where @id = id and @name = name and @counter = counter 
+
+
+
+
+
+
+
