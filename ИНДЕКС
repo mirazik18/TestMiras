@@ -1,0 +1,46 @@
+Индексы ежже
+
+1.
+create nonclustered index Author_NameSurname
+on authors (name, surname)
+
+2.
+create unique clustered index Author_id
+on authors (id)
+
+Мои запросы все
+
+SELECT sum(id) 
+from book
+WHERE name LIKE '%a%'
+
+CREATE table ProstoTak
+(
+id int primary key,
+lol nvarchar(255)
+)
+
+drop table ProstoTak
+
+insert into izdately
+values (10, 'Батя')
+
+update authors
+set name = 'БАТЯ'
+where id = 1
+
+alter table book
+add kek int
+
+delete from book
+where izdatel_id = 2
+
+select * from purchases
+where price = (select max(price) from purchases)
+
+select b.name, a.name
+from book b, authors a
+group by b.name, a.name
+
+select b.name from book b union 
+select a.name from authors a
