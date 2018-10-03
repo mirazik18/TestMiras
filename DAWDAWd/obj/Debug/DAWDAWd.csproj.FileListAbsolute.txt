@@ -1,0 +1,17 @@
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\DAWDAWd.exe.config
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\DAWDAWd.exe
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\DAWDAWd.pdb
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Twilio.dll
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\bin\Debug\Twilio.xml
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\obj\Debug\DAWDAWd.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\obj\Debug\DAWDAWd.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\obj\Debug\DAWDAWd.csproj.CopyComplete
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\obj\Debug\DAWDAWd.exe
+C:\Users\АбдишевМ\source\repos\DAWDAWd\DAWDAWd\obj\Debug\DAWDAWd.pdb
