@@ -1,0 +1,6 @@
+C:\Users\reall\source\repos\Day7\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\reall\source\repos\Day7\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\reall\source\repos\Day7\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\Day7\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\Day7\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\reall\source\repos\Day7\MyClassLib\obj\Debug\MyClassLib.pdb

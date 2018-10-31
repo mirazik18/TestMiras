@@ -1,0 +1,10 @@
+C:\Users\reall\source\repos\Day7\Day7\bin\Debug\Day7.exe.config
+C:\Users\reall\source\repos\Day7\Day7\bin\Debug\Day7.exe
+C:\Users\reall\source\repos\Day7\Day7\bin\Debug\Day7.pdb
+C:\Users\reall\source\repos\Day7\Day7\bin\Debug\MyClassLib.dll
+C:\Users\reall\source\repos\Day7\Day7\bin\Debug\MyClassLib.pdb
+C:\Users\reall\source\repos\Day7\Day7\obj\Debug\Day7.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\Day7\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\Day7\Day7\obj\Debug\Day7.csproj.CopyComplete
+C:\Users\reall\source\repos\Day7\Day7\obj\Debug\Day7.exe
+C:\Users\reall\source\repos\Day7\Day7\obj\Debug\Day7.pdb
