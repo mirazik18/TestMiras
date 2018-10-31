@@ -1,0 +1,7 @@
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\bin\Debug\HW_EnumsAndStructs.exe.config
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\bin\Debug\HW_EnumsAndStructs.exe
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\bin\Debug\HW_EnumsAndStructs.pdb
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\obj\Debug\HW_EnumsAndStructs.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\obj\Debug\HW_EnumsAndStructs.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\obj\Debug\HW_EnumsAndStructs.exe
+C:\Users\reall\source\repos\HW_EnumsAndStructs\HW_EnumsAndStructs\obj\Debug\HW_EnumsAndStructs.pdb
