@@ -1,0 +1,7 @@
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\bin\Debug\MARIO RACE.exe.config
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\bin\Debug\MARIO RACE.exe
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\bin\Debug\MARIO RACE.pdb
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\obj\Debug\MARIO RACE.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\obj\Debug\MARIO RACE.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\obj\Debug\MARIO RACE.exe
+C:\Users\АбдишевМ\source\repos\MARIO RACE\MARIO RACE\obj\Debug\MARIO RACE.pdb
