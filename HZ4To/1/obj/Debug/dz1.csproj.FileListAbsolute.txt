@@ -1,0 +1,11 @@
+C:\Users\super\Desktop\lesson18-3108-master\homework\task1\bin\Debug\task1.exe
+C:\Users\super\Desktop\lesson18-3108-master\homework\task1\bin\Debug\task1.pdb
+C:\Users\super\Desktop\lesson18-3108-master\homework\task1\obj\Debug\dz1.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\lesson18-3108-master\homework\task1\obj\Debug\task1.exe
+C:\Users\super\Desktop\lesson18-3108-master\homework\task1\obj\Debug\task1.pdb
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\bin\Debug\task1.exe
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\bin\Debug\task1.pdb
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\obj\Debug\dz1.csprojAssemblyReference.cache
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\obj\Debug\dz1.csproj.CoreCompileInputs.cache
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\obj\Debug\task1.exe
+C:\Users\АбдишевМ\Desktop\dz-c--master\homework\task1\obj\Debug\task1.pdb
