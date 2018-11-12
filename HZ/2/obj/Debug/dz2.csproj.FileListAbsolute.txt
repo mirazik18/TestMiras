@@ -1,0 +1,5 @@
+C:\Users\super\Desktop\lesson18-3108-master\homework\Task2\bin\Debug\Task2.exe
+C:\Users\super\Desktop\lesson18-3108-master\homework\Task2\bin\Debug\Task2.pdb
+C:\Users\super\Desktop\lesson18-3108-master\homework\Task2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\lesson18-3108-master\homework\Task2\obj\Debug\Task2.exe
+C:\Users\super\Desktop\lesson18-3108-master\homework\Task2\obj\Debug\Task2.pdb
