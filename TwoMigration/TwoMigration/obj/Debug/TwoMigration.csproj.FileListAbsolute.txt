@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\TwoMigration.exe.config
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\TwoMigration.exe
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\TwoMigration.pdb
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.exe
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.pdb
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.Migrations.Bread.resources
+C:\Users\admin\source\repos\TwoMigration\TwoMigration\obj\Debug\TwoMigration.csproj.GenerateResource.Cache
