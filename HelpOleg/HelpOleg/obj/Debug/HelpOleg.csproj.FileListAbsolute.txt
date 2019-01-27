@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\HelpOleg\HelpOleg\bin\Debug\HelpOleg.exe.config
+c:\users\admin\source\repos\HelpOleg\HelpOleg\bin\Debug\HelpOleg.exe
+c:\users\admin\source\repos\HelpOleg\HelpOleg\bin\Debug\HelpOleg.pdb
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.Form1.resources
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.Properties.Resources.resources
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.exe
+c:\users\admin\source\repos\HelpOleg\HelpOleg\obj\Debug\HelpOleg.pdb
