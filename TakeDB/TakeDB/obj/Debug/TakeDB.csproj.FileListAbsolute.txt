@@ -1,0 +1,10 @@
+c:\Users\admin\source\repos\TakeDB\TakeDB\bin\Debug\TakeDB.exe.config
+c:\Users\admin\source\repos\TakeDB\TakeDB\bin\Debug\TakeDB.exe
+c:\Users\admin\source\repos\TakeDB\TakeDB\bin\Debug\TakeDB.pdb
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.csprojResolveAssemblyReference.cache
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.Form1.resources
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.Properties.Resources.resources
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.csproj.GenerateResource.Cache
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.csproj.CoreCompileInputs.cache
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.exe
+c:\Users\admin\source\repos\TakeDB\TakeDB\obj\Debug\TakeDB.pdb
